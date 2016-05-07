@@ -1,0 +1,6 @@
+#ifndef WIN_BITMAP_H
+#define WIN_BITMAP_H
+extern const unsigned short win[34080];
+#define WIN_WIDTH 213
+#define WIN_HEIGHT 160
+#endif
